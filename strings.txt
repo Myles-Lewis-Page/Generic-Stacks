@@ -1,0 +1,7 @@
+Hello
+Goodbye
+Hello
+Duplicate
+Non-duplicate
+Duplicate
+Duplicate
